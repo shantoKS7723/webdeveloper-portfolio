@@ -108,7 +108,9 @@ nav a {
 .about-info{
     text-align: center;
 }
-
+#what-i-do-desc{
+    padding: 30px 150px;
+}
 .section-title {
     color: #181818;
     text-align: center;
